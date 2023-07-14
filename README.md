@@ -10,11 +10,11 @@ in `lib/`, and example unit test in `test/`.
 
 - #### [1. Write a program to print your name in Dart.](/lib/exercise_101.dart)
 
-- #### [2. Write a program to print $\color{yellow}{Hello\ I\ am\ “John\ Doe”}$ and  $\color{yellow}{ Hello\ I’am\ “John\ Doe”}$ with single and double quotes.](/lib/exercise_102.dart)
+- #### [2. Write a program to print `Hello I am "John Doe"` and  `Hello I'am "John Doe"` with single and double quotes.](/lib/exercise_102.dart)
 
 - #### [3. Declare constant type** of int set value 7.](/lib/exercise_103.dart)
 
-- #### [4. Write a program in Dart that finds simple interest. $\color{orange}{Formula = (p * t * r)\ /\ 100}$](/lib/exercise_104.dart)
+- #### [4. Write a program in Dart that finds simple interest. `Formula = (p * t * r) / 100`](/lib/exercise_104.dart)
 
 - #### [5. Write a program to print a square of a number using user input.](/lib/exercise_105.dart)
 
@@ -28,7 +28,7 @@ in `lib/`, and example unit test in `test/`.
 
 - #### [10. Write a dart program to convert String to int.](/lib/exercise_110.dart)
 
-- #### [11. Suppose, you often go to restaurant with friends and you have to split amount of bill. Write a program to calculate split amount of bill. $\color{orange}{Formula = (total\ bill\ amount)\ /\ number\ of\ people}$](/lib/exercise_111.dart)
+- #### [11. Suppose, you often go to restaurant with friends and you have to split amount of bill. Write a program to calculate split amount of bill. `Formula = (total bill amount) / number of people`](/lib/exercise_111.dart)
 
 
 > # Dart Conditions and Loops
@@ -117,33 +117,33 @@ in `lib/`, and example unit test in `test/`.
 
 - #### [5. Write a dart program to create a class Camera with private properties [id, brand, color, prize]. Create a getter and setter to get and set values. Also, create 3 objects of it and print all details.](/lib/exercise_605.dart)
 
-- #### [6. Create an interface called $\color{yellow}{Bottle}$ and add a method to it called $\color{yellow}{open()}$. Create a class called $\color{yellow}{CokeBottle}$ and implement the Bottle and print the message $\color{yellow}{“Coke\ bottle\ is\ opened”}$. Add a factory constructor to $\color{yellow}{Bottle}$ and return the object of $\color{yellow}{CokeBottle}$. Instantiate $\color{yellow}{CokeBottle}$ using the factory constructor and call the $\color{yellow}{open()}$ on the object.](/lib/exercise_606.dart)
+- #### [6. Create an interface called `Bottle` and add a method to it called `open()`. Create a class called `CokeBottle` and implement the Bottle and print the message `"Coke bottle is opened"`. Add a factory constructor to `Bottle` and return the object of `CokeBottle`. Instantiate `CokeBottle` using the factory constructor and call the `open()` on the object.](/lib/exercise_606.dart)
 
 - #### [7. Create a simple quiz application using oop that allows users to play and view their score.](/lib/exercise_607.dart)
 
 
 > # Dart Null Safety
 
-- #### [1. What is the purpose of the $\color{yellow}{?}$ operator in Dart null safety?](/lib/exercise_701.dart)
+- #### [1. What is the purpose of the `?` operator in Dart null safety?](/lib/exercise_701.dart)
 
-- #### [2. Create a $\color{yellow}{late}$ variable named $\color{yellow}{address}$, assign a $\color{yellow}{US}$ value to it and print it.](/lib/exercise_702.dart)
+- #### [2. Create a `late` variable named `address`, assign a `US` value to it and print it.](/lib/exercise_702.dart)
 
 - #### [3. How do you declare a nullable type in Dart null safety?](/lib/exercise_703.dart)
 
-- #### [4. Write a program in a dart to create an age variable and assign a $\color{yellow}{null}$ value to it using $\color{yellow}{?}$.](/lib/exercise_704.dart)
+- #### [4. Write a program in a dart to create an age variable and assign a `null` value to it using `?`.](/lib/exercise_704.dart)
 
-- #### [5. Write a function that accepts a nullable int parameter and returns 0 if the value is null using null coalescing operator $\color{yellow}{??}$.](/lib/exercise_705.dart)
+- #### [5. Write a function that accepts a nullable int parameter and returns 0 if the value is null using null coalescing operator `??`.](/lib/exercise_705.dart)
 
-- #### [6. Write a function named $\color{yellow}{generateRandom()}$ in dart that randomly returns $\color{yellow}{100}$ or $\color{yellow}{null}$. Also, assign a return value of the function to a variable named $\color{yellow}{status}$ that can’t be null. Give status a default value of 0, if $\color{yellow}{generateRandom()}$ function returns null.](/lib/exercise_706.dart)
+- #### [6. Write a function named `generateRandom()` in dart that randomly returns `100` or `null`. Also, assign a return value of the function to a variable named `status` that can’t be null. Give status a default value of 0, if `generateRandom()` function returns null.](/lib/exercise_706.dart)
 
 
 > # Dart Asynchronous Programming
 
-- #### [1. Explain what is $\color{orange}{asynchronous\ programming}$ in dart?](/lib/exercise_801.dart)
+- #### [1. Explain what is `asynchronous programming` in dart?](/lib/exercise_801.dart)
 
-- #### [2. What is $\color{orange}{Future}$ in dart?](/lib/exercise_802.dart)
+- #### [2. What is `Future` in dart?](/lib/exercise_802.dart)
 
-- #### [3. Write a program to print current time after 2 seconds using $\color{orange}{Future.delayed()}$.](/lib/exercise_803.dart)
+- #### [3. Write a program to print current time after 2 seconds using `Future.delayed()`.](/lib/exercise_803.dart)
 
 - #### [4. Write a program in dart that reads csv file and print it’s content.](/lib/exercise_804.dart)
 
